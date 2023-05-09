@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Verksted",
+        "color":"#4bae4b",
+        "href":""
+    },
+    {
+        "name":"Aktivitet",
+        "color":"#f6d109",
+        "href":""
+    },
+    {
+        "name":"Forestilling",
+        "color":"#e42085",
+        "href":""
+    },
+    {
+        "name":"Konsert",
+        "color":"#4d4084",
+        "href":""
+    },
+    {
+        "name":"Utstilling",
+        "color":"#65b3cc",
+        "href":""
+    }
+]
