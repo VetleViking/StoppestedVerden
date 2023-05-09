@@ -2,26 +2,31 @@
     {
         "name":"Verksted",
         "color":"#4bae4b",
-        "href":""
+        "href":"",
+        "img":""
     },
     {
         "name":"Aktivitet",
         "color":"#f6d109",
-        "href":""
+        "href":"",
+        "img":""
     },
     {
         "name":"Forestilling",
         "color":"#e42085",
-        "href":""
+        "href":"",
+        "img":""
     },
     {
         "name":"Konsert",
         "color":"#4d4084",
-        "href":""
+        "href":"",
+        "img":""
     },
     {
         "name":"Utstilling",
         "color":"#65b3cc",
-        "href":""
+        "href":"",
+        "img":""
     }
 ]
